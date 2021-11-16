@@ -18,7 +18,7 @@
 </ul>
 
 <h3>Status</h3>
-<p>Parcialmente concluído - Passando por otimizações</p>
+<p>Concluído - Passando por otimizações</p>
 
 <h3>Colaboradores</h3>
 <p>Kelvin de Sá Ferreira</p>
